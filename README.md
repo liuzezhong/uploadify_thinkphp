@@ -1,2 +1,6 @@
 # uploadify_thinkphp
 uploadify with thinkphp demo
+
+这是一个集合uploadify上传框架和thinkphp框架的Demo
+
+基本功能是通过Ajax异步上传并显示图片
